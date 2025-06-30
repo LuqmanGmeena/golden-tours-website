@@ -3,11 +3,11 @@ import React from 'react';
 const Gallery = () => {
   const images = [
     {
-      src: 'https://images.pexels.com/photos/631317/pexels-photo-631317.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
+      src: '/3.jpeg',
       alt: 'Safari Wildlife'
     },
     {
-      src: 'https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
+      src: '/hiki1.jpeg',
       alt: 'Hiking Adventure'
     },
     {
@@ -19,11 +19,11 @@ const Gallery = () => {
       alt: 'Camping Under Stars'
     },
     {
-      src: 'https://images.pexels.com/photos/2356045/pexels-photo-2356045.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
+      src: '/hiking.jpeg',
       alt: 'Mountain Views'
     },
     {
-      src: 'https://images.pexels.com/photos/1834399/pexels-photo-1834399.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
+      src: 'iii1.jpeg',
       alt: 'Cultural Experience'
     },
     {
@@ -31,7 +31,7 @@ const Gallery = () => {
       alt: 'Wildlife Photography'
     },
     {
-      src: 'https://images.pexels.com/photos/1658967/pexels-photo-1658967.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
+      src: '/hk1.jpeg',
       alt: 'Adventure Group'
     },
     {

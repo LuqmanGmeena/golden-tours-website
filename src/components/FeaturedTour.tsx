@@ -31,7 +31,7 @@ const FeaturedTour = () => {
               {/* Image Section */}
               <div className="relative h-96 lg:h-full">
                 <img
-                  src="https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop"
+                  src="/hiki1.jpeg"
                   alt="Pugu Hills Adventure"
                   className="w-full h-full object-cover"
                 />
