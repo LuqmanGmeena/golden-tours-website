@@ -3,7 +3,7 @@ import { MapPin, Users, Clock, Star, MessageCircle } from 'lucide-react';
 
 const FeaturedTour = () => {
   const handleBookNow = () => {
-    window.open('https://wa.me/255123456789?text=Hello! I would like to book the Pugu Hills Day Trip.', '_blank');
+    window.open('https://wa.me/255719306070?text=Hello! I would like to book the Pugu Hills Day Trip.', '_blank');
   };
 
   const activities = [

@@ -73,7 +73,7 @@ const Contact = () => {
               <h3 className="text-2xl font-bold text-gray-800 mb-8">Quick Actions</h3>
               <div className="space-y-4">
                 <button
-                  onClick={() => window.open('https://wa.me/255123456789?text=Hello! I would like to book a tour with Golden Tours & Safaris.', '_blank')}
+                  onClick={() => window.open('https://wa.me/255719306070?text=Hello! I would like to book a tour with Golden Tours & Safaris.', '_blank')}
                   className="w-full flex items-center justify-center space-x-3 bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white p-4 rounded-xl font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg"
                 >
                   <MessageCircle size={24} />
@@ -89,7 +89,7 @@ const Contact = () => {
                 </button>
 
                 <button
-                  onClick={() => window.open('tel:+255123456789')}
+                  onClick={() => window.open('tel:+255719306070')}
                   className="w-full flex items-center justify-center space-x-3 bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white p-4 rounded-xl font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg"
                 >
                   <Phone size={24} />
