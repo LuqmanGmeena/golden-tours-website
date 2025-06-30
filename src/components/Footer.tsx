@@ -6,7 +6,7 @@ const Footer = () => {
 
   const quickLinks = [
     { name: 'Book Now', action: () => window.open('https://wa.me/255719306070?text=Hello! I would like to book a tour.', '_blank') },
-    { name: 'WhatsApp', action: () => window.open('https://wa.me/255747614051', '_blank') },
+    { name: 'WhatsApp', action: () => window.open('https://wa.me/255719306070', '_blank') },
     { name: 'Terms', action: () => {} }
   ];
 
