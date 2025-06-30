@@ -3,7 +3,7 @@ import { MessageCircle } from 'lucide-react';
 
 const Hero = () => {
   const handleBookNow = () => {
-    window.open('https://wa.me/255123456789?text=Hello! I would like to book a tour with Golden Tours & Safaris.', '_blank');
+    window.open('https://wa.me/255719306070?text=Hello! I would like to book a tour with Golden Tours & Safaris.', '_blank');
   };
 
   return (
