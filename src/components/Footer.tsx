@@ -5,8 +5,8 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   const quickLinks = [
-    { name: 'Book Now', action: () => window.open('https://wa.me/255123456789?text=Hello! I would like to book a tour.', '_blank') },
-    { name: 'WhatsApp', action: () => window.open('https://wa.me/255123456789', '_blank') },
+    { name: 'Book Now', action: () => window.open('https://wa.me/255719306070?text=Hello! I would like to book a tour.', '_blank') },
+    { name: 'WhatsApp', action: () => window.open('https://wa.me/255747614051', '_blank') },
     { name: 'Terms', action: () => {} }
   ];
 
